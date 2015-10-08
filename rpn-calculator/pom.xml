@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>ca.ulaval.glo4002</groupId>
-    <artifactId>demo-cucumber</artifactId>
+    <artifactId>rpn-calculator-cucumber</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>rpn-calculator</artifactId>
